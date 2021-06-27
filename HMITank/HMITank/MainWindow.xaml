@@ -1,0 +1,16 @@
+﻿<Window x:Class="HMITank.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HMITank"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="600">
+    <Grid>
+        <Button x:Name="button" Content="Set" HorizontalAlignment="Left" Margin="433,210,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="37" Margin="394,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153" TextChanged="textBox_TextChanged"/>
+        <local:HMITankCtrl x:Name="Tank" HorizontalAlignment="Left" Height="360" Margin="83,26,0,-15.6" VerticalAlignment="Top" Width="230" ProcessBarVisible="True"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="823,58,-329.4,0" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</Window>

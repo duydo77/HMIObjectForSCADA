@@ -1,0 +1,78 @@
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\bin\Debug\demoWinForm.exe.config
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\bin\Debug\demoWinForm.exe
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\bin\Debug\demoWinForm.pdb
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\lib\motor\ControlMotor.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\lib\pump\PumpControl.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\lib\sevenseg\SevenSegments.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\lib\sevenseg\SevenSegmentsMulti.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\lib\tank\HMITankCtrl.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\lib\tank\ProcessLevel.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\demoWinForm_MarkupCompile.cache
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\demoWinForm_MarkupCompile.lref
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\lib\motor\ControlMotor.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\lib\pump\PumpControl.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\lib\sevenseg\SevenSegments.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\lib\sevenseg\SevenSegmentsMulti.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\lib\tank\HMITankCtrl.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\lib\tank\ProcessLevel.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\demoWinForm.g.resources
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\demoWinForm.Form1.resources
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\demoWinForm.Properties.Resources.resources
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\demoWinForm.csproj.GenerateResource.Cache
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\demoWinForm.exe
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\demoWinForm.pdb
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\bin\Debug\GAUGE.exe
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\bin\Debug\GAUGE.pdb
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWinForm\demoWinForm\obj\Debug\demoWinForm.csprojResolveAssemblyReference.cache
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\bin\Debug\demoWinForm.exe.config
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\demoWinForm.exe
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\demoWinForm.pdb
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\lib\motor\ControlMotor.g.cs
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\lib\pump\PumpControl.g.cs
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\lib\sevenseg\SevenSegments.g.cs
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\lib\sevenseg\SevenSegmentsMulti.g.cs
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\lib\tank\HMITankCtrl.g.cs
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\lib\tank\ProcessLevel.g.cs
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\demoWinForm_MarkupCompile.cache
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\demoWinForm_MarkupCompile.lref
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\bin\Debug\demoWinForm.exe
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\bin\Debug\demoWinForm.pdb
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\lib\motor\ControlMotor.baml
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\lib\pump\PumpControl.baml
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\lib\sevenseg\SevenSegments.baml
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\lib\sevenseg\SevenSegmentsMulti.baml
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\lib\tank\HMITankCtrl.baml
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\lib\tank\ProcessLevel.baml
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\demoWinForm.g.resources
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\demoWinForm.Form1.resources
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\demoWinForm.Properties.Resources.resources
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\demoWinForm.csproj.GenerateResource.Cache
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\lib\gauge\Gauge.g.cs
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\lib\gauge\Gauge.baml
+C:\Users\Ms. Trang\Desktop\demoWinForm-20210623T091708Z-001\demoWinForm\demoWinForm\obj\Debug\demoWinForm.csprojResolveAssemblyReference.cache
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\bin\Debug\demoWinForm.exe.config
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\demoWinForm.exe
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\demoWinForm.pdb
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\bin\Debug\demoWinForm.exe
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\bin\Debug\demoWinForm.pdb
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\demoWinForm.csprojResolveAssemblyReference.cache
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\lib\gauge\Gauge.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\lib\motor\ControlMotor.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\lib\pump\PumpControl.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\lib\sevenseg\SevenSegments.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\lib\sevenseg\SevenSegmentsMulti.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\lib\tank\HMITankCtrl.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\lib\tank\ProcessLevel.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\demoWinForm_MarkupCompile.cache
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\demoWinForm_MarkupCompile.lref
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\lib\gauge\Gauge.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\lib\motor\ControlMotor.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\lib\pump\PumpControl.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\lib\sevenseg\SevenSegments.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\lib\sevenseg\SevenSegmentsMulti.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\lib\tank\HMITankCtrl.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\lib\tank\ProcessLevel.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\demoWinForm.g.resources
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\demoWinForm.Form1.resources
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\demoWinForm.Properties.Resources.resources
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWinForm\demoWinForm\obj\Debug\demoWinForm.csproj.GenerateResource.Cache

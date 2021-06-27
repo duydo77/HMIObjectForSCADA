@@ -1,0 +1,14 @@
+﻿<Window x:Class="Pump.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pump"
+        mc:Ignorable="d"
+        Title="PUMP" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="ONButton" Content="ON" HorizontalAlignment="Left" Margin="521,113,0,0" VerticalAlignment="Top" Width="96" Background="Gainsboro" Height="40" FontSize="16" FontFamily="Segoe UI Black" FontWeight="Bold" Click="ONButton_Click"/>
+        <local:PumpControl x:Name="Pump" HorizontalAlignment="Left" Height="338" Margin="80,24,0,0" VerticalAlignment="Top" Width="313" Loaded="PumpLight_Loaded"/>
+        <Button x:Name="OFFButton" Content="OFF" HorizontalAlignment="Left" Margin="521,216,0,0" VerticalAlignment="Top" Width="96" Background="#FFDDDDDD" Height="40" FontSize="16" FontFamily="Segoe UI Black" FontWeight="Bold" Click="OFFButton_Click"/>
+    </Grid>
+</Window>

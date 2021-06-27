@@ -1,0 +1,86 @@
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\lib\gauge\Gauge.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\lib\motor\ControlMotor.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\lib\pump\PumpControl.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\lib\sevenseg\SevenSegments.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\lib\sevenseg\SevenSegmentsMulti.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\lib\tank\HMITankCtrl.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\lib\tank\ProcessLevel.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\MainWindow.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\App.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\demoWPF_MarkupCompile.cache
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\demoWPF_MarkupCompile.lref
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\bin\Debug\demoWPF.exe.config
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\bin\Debug\demoWPF.exe
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\bin\Debug\demoWPF.pdb
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\lib\gauge\Gauge.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\lib\motor\ControlMotor.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\lib\pump\PumpControl.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\lib\sevenseg\SevenSegments.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\lib\sevenseg\SevenSegmentsMulti.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\lib\tank\HMITankCtrl.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\lib\tank\ProcessLevel.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\MainWindow.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\demoWPF.g.resources
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\demoWPF.Properties.Resources.resources
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\demoWPF.csproj.GenerateResource.Cache
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\demoWPF.exe
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\demoWPF\demoWPF\obj\Debug\demoWPF.pdb
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\bin\Debug\demoWPF.exe.config
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\demoWPF.exe
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\demoWPF.pdb
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\demoWPF.csprojResolveAssemblyReference.cache
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\lib\gauge\Gauge.g.cs
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\lib\motor\ControlMotor.g.cs
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\lib\pump\PumpControl.g.cs
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\lib\sevenseg\SevenSegments.g.cs
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\lib\sevenseg\SevenSegmentsMulti.g.cs
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\lib\tank\HMITankCtrl.g.cs
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\lib\tank\ProcessLevel.g.cs
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\App.g.cs
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\demoWPF_MarkupCompile.cache
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\demoWPF_MarkupCompile.lref
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\bin\Debug\demoWPF.exe
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\bin\Debug\demoWPF.pdb
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\lib\gauge\Gauge.baml
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\lib\motor\ControlMotor.baml
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\lib\pump\PumpControl.baml
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\lib\sevenseg\SevenSegments.baml
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\lib\sevenseg\SevenSegmentsMulti.baml
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\lib\tank\HMITankCtrl.baml
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\lib\tank\ProcessLevel.baml
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\MainWindow.baml
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\demoWPF.g.resources
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\demoWPF.Properties.Resources.resources
+C:\Users\Ms. Trang\Desktop\demoWPF-20210623T095036Z-001\demoWPF\demoWPF\obj\Debug\demoWPF.csproj.GenerateResource.Cache
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\bin\Debug\demoWPF.exe.config
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\demoWPF.exe
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\demoWPF.pdb
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\bin\Debug\demoWPF.exe
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\bin\Debug\demoWPF.pdb
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\demoWPF.csprojResolveAssemblyReference.cache
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\lib\gauge\Gauge.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\lib\motor\ControlMotor.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\lib\pump\PumpControl.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\lib\sevenseg\SevenSegments.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\lib\sevenseg\SevenSegmentsMulti.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\lib\tank\HMITankCtrl.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\lib\tank\ProcessLevel.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\MainWindow.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\App.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\demoWPF_MarkupCompile.cache
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\demoWPF_MarkupCompile.lref
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\lib\gauge\Gauge.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\lib\motor\ControlMotor.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\lib\pump\PumpControl.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\lib\sevenseg\SevenSegments.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\lib\sevenseg\SevenSegmentsMulti.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\lib\tank\HMITankCtrl.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\lib\tank\ProcessLevel.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\MainWindow.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\demoWPF.g.resources
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\demoWPF.Properties.Resources.resources
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\Demo3\demoWPF\demoWPF\obj\Debug\demoWPF.csproj.GenerateResource.Cache

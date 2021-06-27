@@ -1,0 +1,14 @@
+﻿<Window x:Class="Motor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Motor"
+        mc:Ignorable="d"
+        Title="Motor" Height="450" Width="800">
+    <Grid>
+        <local:ControlMotor x:Name="Motor" HorizontalAlignment="Left" Height="292" Margin="44,41,0,0" VerticalAlignment="Top" Width="466"/>
+        <Button x:Name="ONButton" Content="ON" HorizontalAlignment="Left" Margin="574,77,0,0" VerticalAlignment="Top" Width="110" Height="47" Click="Button_Click" FontWeight="Bold" FontFamily="Segoe UI Black" FontSize="16"/>
+        <Button x:Name="OFFButton" Content="OFF" HorizontalAlignment="Left" Margin="574,206,0,0" VerticalAlignment="Top" Width="110" Height="47" Click="Button_Click_1" FontFamily="Segoe UI Black" FontWeight="Bold" FontSize="16"/>
+    </Grid>
+</Window>

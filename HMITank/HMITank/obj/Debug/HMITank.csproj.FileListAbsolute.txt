@@ -1,0 +1,57 @@
+D:\DLDKMT\HMITank\HMITank\bin\Debug\HMITank.exe.config
+D:\DLDKMT\HMITank\HMITank\bin\Debug\HMITank.exe
+D:\DLDKMT\HMITank\HMITank\bin\Debug\HMITank.pdb
+D:\DLDKMT\HMITank\HMITank\obj\Debug\HMITankCtrl.g.cs
+D:\DLDKMT\HMITank\HMITank\obj\Debug\MainWindow.g.cs
+D:\DLDKMT\HMITank\HMITank\obj\Debug\ProcessLevel.g.cs
+D:\DLDKMT\HMITank\HMITank\obj\Debug\App.g.cs
+D:\DLDKMT\HMITank\HMITank\obj\Debug\HMITank_MarkupCompile.cache
+D:\DLDKMT\HMITank\HMITank\obj\Debug\HMITank_MarkupCompile.lref
+D:\DLDKMT\HMITank\HMITank\obj\Debug\HMITankCtrl.baml
+D:\DLDKMT\HMITank\HMITank\obj\Debug\MainWindow.baml
+D:\DLDKMT\HMITank\HMITank\obj\Debug\ProcessLevel.baml
+D:\DLDKMT\HMITank\HMITank\obj\Debug\HMITank.g.resources
+D:\DLDKMT\HMITank\HMITank\obj\Debug\HMITank.Properties.Resources.resources
+D:\DLDKMT\HMITank\HMITank\obj\Debug\HMITank.csproj.GenerateResource.Cache
+D:\DLDKMT\HMITank\HMITank\obj\Debug\HMITank.exe
+D:\DLDKMT\HMITank\HMITank\obj\Debug\HMITank.pdb
+D:\DLDKMT\HMITank\HMITank\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DLDKMT\HMITank\HMITank\obj\Debug\HMITank.csprojResolveAssemblyReference.cache
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\bin\Debug\HMITank.exe.config
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\HMITank.exe
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\HMITank.pdb
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\HMITank.csprojResolveAssemblyReference.cache
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\HMITankCtrl.g.cs
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\MainWindow.g.cs
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\ProcessLevel.g.cs
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\App.g.cs
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\HMITank_MarkupCompile.cache
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\HMITank_MarkupCompile.lref
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\bin\Debug\HMITank.exe
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\bin\Debug\HMITank.pdb
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\HMITankCtrl.baml
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\MainWindow.baml
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\ProcessLevel.baml
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\HMITank.g.resources
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\HMITank.Properties.Resources.resources
+C:\Users\Ms. Trang\Desktop\HMITank-20210621T041710Z-001\HMITank\HMITank\obj\Debug\HMITank.csproj.GenerateResource.Cache
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\bin\Debug\HMITank.exe.config
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\HMITank.exe
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\HMITank.pdb
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\HMITank.csprojResolveAssemblyReference.cache
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\HMITankCtrl.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\MainWindow.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\ProcessLevel.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\App.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\HMITank_MarkupCompile.cache
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\HMITank_MarkupCompile.lref
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\bin\Debug\HMITank.exe
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\bin\Debug\HMITank.pdb
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\HMITankCtrl.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\MainWindow.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\ProcessLevel.baml
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\HMITank.g.resources
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\HMITank.Properties.Resources.resources
+D:\Docs\HK202\Do_luong_dk_bang_mt\BTL\HMITank\HMITank\obj\Debug\HMITank.csproj.GenerateResource.Cache

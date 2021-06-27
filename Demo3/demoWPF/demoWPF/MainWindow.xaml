@@ -1,0 +1,53 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:demoWPF"
+        xmlns:Motor="clr-namespace:Motor" xmlns:GAUGE="clr-namespace:GAUGE" xmlns:HMITank="clr-namespace:HMITank" xmlns:Pump="clr-namespace:Pump" xmlns:HMI_SevenSegment="clr-namespace:HMI_SevenSegment" x:Class="demoWPF.MainWindow"
+        mc:Ignorable="d"
+        Title="Demo SCADA C# Object" Height="600" Width="530">
+    <Grid>
+
+        <Motor:ControlMotor x:Name="motor" HorizontalAlignment="Left" Margin="17,28,0,0" VerticalAlignment="Top" Height="94" Width="129"/>
+
+        <GAUGE:Gauge x:Name="gauge" HorizontalAlignment="Left" Margin="262,132,0,0" VerticalAlignment="Top" Height="156" Width="138"/>
+
+        <HMITank:HMITankCtrl x:Name="tank" HorizontalAlignment="Left" Margin="37,142,0,0" VerticalAlignment="Top" Height="184" Width="84" ProcessBarVisible="True"/>
+
+        <Pump:PumpControl x:Name="pump" HorizontalAlignment="Left" Margin="262,10,0,0" VerticalAlignment="Top" Height="112" Width="164"/>
+
+        <HMI_SevenSegment:SevenSegments x:Name="sevenSeg" HorizontalAlignment="Left" Margin="27,346,0,0" VerticalAlignment="Top" Height="107" Width="119"/>
+        <Button x:Name="btn_motor_on" Content="On" HorizontalAlignment="Left" Margin="169,43,0,0" VerticalAlignment="Top" Width="44" Click="btn_motor_on_Click"/>
+        <Button x:Name="btn_motor_off" Content="Off" HorizontalAlignment="Left" Margin="169,80,0,0" VerticalAlignment="Top" Width="44" Click="btn_motor_off_Click"/>
+        <Button x:Name="btn_pump_on" Content="On" HorizontalAlignment="Left" Margin="431,43,0,0" VerticalAlignment="Top" Width="44" Click="btn_pump_on_Click"/>
+        <Button x:Name="btn_pump_off" Content="Off" HorizontalAlignment="Left" Margin="431,80,0,0" VerticalAlignment="Top" Width="44" Click="btn_pump_off_Click"/>
+        <TextBox x:Name="txt_tank_min" HorizontalAlignment="Left" Height="23" Margin="167,169,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="44"/>
+        <Button x:Name="btn_tank" Content="Set" HorizontalAlignment="Left" Margin="167,263,0,0" VerticalAlignment="Top" Width="44" Click="btn_tank_Click"/>
+        <TextBox x:Name="txt_tank_max" HorizontalAlignment="Left" Height="23" Margin="167,201,0,0" TextWrapping="Wrap" Text="100" VerticalAlignment="Top" Width="44"/>
+        <TextBox x:Name="txt_tank_val" HorizontalAlignment="Left" Height="23" Margin="167,232,0,0" TextWrapping="Wrap" Text="50" VerticalAlignment="Top" Width="44"/>
+        <Label x:Name="label" Content="Min" HorizontalAlignment="Left" Margin="137,166,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy" Content="Max" HorizontalAlignment="Left" Margin="135,197,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy2" Content="Val" HorizontalAlignment="Left" Margin="137,228,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_gauge_min" HorizontalAlignment="Left" Height="23" Margin="430,169,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="44"/>
+        <Button x:Name="btn_gauge_set" Content="Set" HorizontalAlignment="Left" Margin="430,263,0,0" VerticalAlignment="Top" Width="44" Click="btn_gauge_set_Click"/>
+        <TextBox x:Name="txt_gauge_max" HorizontalAlignment="Left" Height="23" Margin="430,201,0,0" TextWrapping="Wrap" Text="100" VerticalAlignment="Top" Width="44"/>
+        <TextBox x:Name="txt_gauge_val" HorizontalAlignment="Left" Height="23" Margin="430,232,0,0" TextWrapping="Wrap" Text="50" VerticalAlignment="Top" Width="44"/>
+        <Label x:Name="label_Copy1" Content="Min" HorizontalAlignment="Left" Margin="400,166,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy3" Content="Max" HorizontalAlignment="Left" Margin="398,197,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy4" Content="Val" HorizontalAlignment="Left" Margin="400,228,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_7seg_val" HorizontalAlignment="Left" Height="23" Margin="169,346,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="42"/>
+        <RadioButton x:Name="rd_7seg" Content="Colon" HorizontalAlignment="Left" Margin="169,379,0,0" VerticalAlignment="Top" Click="rd_7seg_click"/>
+        <Button x:Name="btn_7seg" Content="Set" HorizontalAlignment="Left" Margin="169,406,0,0" VerticalAlignment="Top" Width="44" Click="btn_7seg_Click"/>
+        <TextBox x:Name="txt_multi_int" HorizontalAlignment="Left" Height="23" Margin="317,444,0,0" TextWrapping="Wrap" Text="1111" VerticalAlignment="Top" Width="49"/>
+        <TextBox x:Name="txt_multi_float" HorizontalAlignment="Left" Height="23" Margin="438,444,0,0" TextWrapping="Wrap" Text="1.234" VerticalAlignment="Top" Width="52"/>
+        <Button x:Name="btn_multi_int" Content="Set" HorizontalAlignment="Left" Margin="317,502,0,0" VerticalAlignment="Top" Width="49" Click="btn_multi_int_Click"/>
+        <Button x:Name="btn_multi_float" Content="Set" HorizontalAlignment="Left" Margin="438,502,0,0" VerticalAlignment="Top" Width="52" Click="btn_multi_float_Click"/>
+        <TextBox x:Name="txt_multi_acc" HorizontalAlignment="Left" Height="23" Margin="438,474,0,0" TextWrapping="Wrap" Text="2" VerticalAlignment="Top" Width="52"/>
+        <Label x:Name="label2" Content="Int value" HorizontalAlignment="Left" Margin="262,444,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2_Copy" Content="Float value" HorizontalAlignment="Left" Margin="371,444,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2_Copy1" Content="Acc" HorizontalAlignment="Left" Margin="409,471,0,0" VerticalAlignment="Top"/>
+        <HMI_SevenSegment:SevenSegmentsMulti x:Name="multi" NumberOfLed="5" HorizontalAlignment="Left" Margin="238,343,0,0" VerticalAlignment="Top" Height="83" Width="279" BackgroundColor="#FF3E3E3E" LedOffColor="#FF120F30" LedOnColor="#FF06E6D2" VisibleAllColon="True"/>
+
+    </Grid>
+</Window>
